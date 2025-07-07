@@ -245,7 +245,7 @@ SELECT * FROM sales;
 ```
 
 ### ERP Daigram
-![ERD]()
+![ERD](Coffee Sales Analysis/Screenshot 2025-07-07 150153.png)
 
 ### 2. Data Analysis & Findings
 
