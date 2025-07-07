@@ -244,7 +244,8 @@ SELECT * FROM customers;
 SELECT * FROM sales;
 ```
 
-##ERP daigram
+### ERP Daigram
+![ERD]()
 
 ### 2. Data Analysis & Findings
 
