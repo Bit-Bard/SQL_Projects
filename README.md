@@ -244,8 +244,8 @@ SELECT * FROM customers;
 SELECT * FROM sales;
 ```
 
-### ERP Daigram
-![ERD](Coffee Sales Analysis/Screenshot 2025-07-07 150153.png)
+### Entity-Relationship Diagram
+![ERD](Coffee%20Sales%20Analysis/Screenshot%202025-07-07%20150153.png)
 
 ### 2. Data Analysis & Findings
 
