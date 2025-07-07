@@ -1,4 +1,4 @@
-#Begnieer Sql Project :  Retail Sales Analysis ,  Coffee Sales Analysis 
+# Begnieer Sql Project :  Retail Sales Analysis ,  Coffee Sales Analysis 
 ## Retail Sales Analysis SQL Project 1 
 
 ## Project Overview
@@ -481,7 +481,7 @@ FROM city_rent AS cr
 JOIN city_table AS ct ON cr.city_name = ct.city_name
 ORDER BY ct.total_revenue DESC;
 ```
-##Findings:
+## Findings:
 City 1: Pune
 	1.Average rent per customer is very low.
 	2.Highest total revenue.
