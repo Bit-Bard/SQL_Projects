@@ -1,4 +1,5 @@
-# Begnieer Sql Project :  Retail Sales Analysis ,  Coffee Sales Analysis 
+# Begnieer Sql Project :  Retail Sales Analysis ,  Coffee Sales Analysis
+
 ## Retail Sales Analysis SQL Project 1 
 
 ## Project Overview
